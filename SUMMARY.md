@@ -23,3 +23,36 @@
 * [Іван Петрович Котляревський](/3lec/kotlarevski.md)
 * [Григорій Федорович Квітка-Основ’яненко](/3lec/kvitka.md)
 
+## Розділ 4
+* [Тарас Григорович Шевченко](/4lec/shevchenko.md)
+* [Життєвий шлях (хронологічна таблиця)](/4lec/zhitteviy_shlah.md)
+* [Рання творчість Т. Шевченка](/4lec/rannya_tvorchist.md)
+* [Романтизм](/4lec/romantyzm.md)
+* [«Катерина»](/4lec/kateryna.md)
+* [«Гайдамаки»](/4lec/haydamaky.md)
+* [«Три літа»](/4lec/3_lita.md)
+* [«Кавказ»](/4lec/kavkaz.md)
+* [«Сон» («У всякого своя доля…»)](/4lec/son.md)
+* [«І мертвим, і живим, і ненарожденним...»](/4lec/i_mertvym_i_zhyvym.md)
+* [«Заповіт»](/4lec/zapovit.md)
+* [Пантелеймон Олександрович Куліш](/4lec/kulish.md)
+* [«Чорна рада»](/4lec/chorna_rada.md)
+
+## Розділ 5
+* [Іван Семенович Нечуй-Левицький](/5lec/nechui_levyckyi.md)
+* [«Кайдашева сім’я»](/5lec/kaudasheva_simya.md)
+* [Панас Мирний](/5lec/panas_myrnyi.md)
+* [«Хіба ревуть воли, як ясла повні?»](/5lec/hiba_revut_voly.md)
+* [Іван Карпенко-Карий](/5lec/karpenko-karyi.md)
+* [«Мартин Боруля»](/5lec/martyn_borulya.md)
+
+## Розділ 6
+* [Іван Якович Франко](/6lec/franko.md)
+* [Гімн](/6lec/gimn.md)
+* [«Чого являєшся мені у сні?»](/6lec/chogo_yavlyaeshsya.md)
+* [«Мойсей»](/6lec/moisey.md)
+* [Михайло Михайлович Коцюбинський](/6lec/kocubynski.md)
+* [«Intermezzo»](/6lec/intermezzo.md)
+* [«Тіні забутих предків»](/6lec/tini_zabutyh.md)
+
+
