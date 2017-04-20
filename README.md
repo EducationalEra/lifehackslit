@@ -52,3 +52,29 @@
 * [Михайло Михайлович Коцюбинський](/6lec/kocubynski.md)
 * [«Intermezzo»](/6lec/intermezzo.md)
 * [«Тіні забутих предків»](/6lec/tini_zabutyh.md)
+
+## Розділ 7
+* [Леся Українка](/7lec/ukrainka.md)
+* [Contra spem spero!](/7lec/contra.md)
+* [«Лісова пісня»](/7lec/pisnya.md)
+* [Ольга Юліанівна Кобилянська](/7lec/kobylyanska.md)
+* [«Земля»](/7lec/zemlya.md)
+
+## Розділ 8
+* [Олександр Олесь](/8lec/oles.md)
+* [Чари ночі](/8lec/chary.md)
+* [«О слово рідне, орле скутий!..»](/8lec/o_slovo.md)
+* [Микола Кіндратович Вороний](/8lec/voronyi.md)
+* [Блакитна Панна](/8lec/blakytna_panna.md)
+
+## Розділ 9
+* [“Розстріляне відродження”](/9lec/rozstrilyane_vidrodzhennya.md)
+* [Павло Григорович Тичина](/9lec/tychina.md)
+* [«Ви знаєте, як липа шелестить?..»](/9lec/vy_znaete_yak_lypa_shelestyt.md)
+* [«О, панно Інно…»](/9lec/o_panno_inno.md)
+* [«Пам'яті тридцяти»](/9lec/pamyati_trudzaty.md)
+* [Київські «неокласики»](/9lec/kyivski_neoklasyky.md)
+* [Микола Костянтинович Зеров](/9lec/zerov.md)
+* [Київ – традиція](/9lec/kyiv_tradyziya.md)
+* [Максим Тадейович Рильський](/9lec/rylski.md)
+* [«Молюсь і вірю. Вітер грає…»](/9lec/molus_i_vitiu.md)
