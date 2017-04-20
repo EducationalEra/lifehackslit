@@ -1,0 +1,27 @@
+#Київ – традиція
+
+<p><span style="font-weight: 400;">Ніхто не заперечить прав.</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Так, перший світ осяв твої висоти;</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">До тебе тислись войовничі готи,</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">І Данпарштадт із пущі виглядав.</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Тут бивсь норманн, і лядський Болеслав</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Щербив мечі об Золоті ворот;</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Про тебе теревені плів Ляссота</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">І Левассер Боплан байки складав.</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">І в наші дні зберіг ти чар-отруту:</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">В тобі розбили табір аспанфути &ndash;&nbsp;</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Кують, і мелють, і дивують світ.</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Тут і Тичина, голосний і юний,</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Животворив душею давній міт</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">І &laquo;Плуга&raquo; вів у сонячні комуни.</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;"><br /></span><em><span style="font-weight: 400;">1923&nbsp;</span></em></p>
+<p>&nbsp;</p>
+<p><strong>Аналіз вірша</strong></p>
+<p><strong>Рід</strong><span style="font-weight: 400;">: лірика.</span></p>
+<p><strong>Жанр</strong><span style="font-weight: 400;">: сонет.</span></p>
+<p><strong><em>Сонет</em></strong><span style="font-weight: 400;"> &ndash; ліричний твір усталеної форми. Виник у ХІІІ ст. в Сицилії. Данте Аліґ'єрі одним із перших написав книгу сонетів &laquo;Нове життя&raquo;. Найбільшого розквіту жанр досяг у творчості Франческо Петрарки. </span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">14 рядків, </span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">5- 6-стопний ямб (рідше &ndash; 4-стопний),</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">два різновиди: </span><strong><em>класичний (італійський) і шекспірівський</em></strong><span style="font-weight: 400;"> сонет.</span></li>
+</ul>
+
+<p><span style="font-weight: 400;">Класичний:</span></p>
+<p><span style="font-weight: 400;">два катрени і два терцети,</span></p>
+<p><span style="font-weight: 400;">схема римування: абба, абба, ввг, дгд (хоч можливі й інші варіанти),</span></p>
+<p><span style="font-weight: 400;">катрени &ndash; заспів, у якому формулюється тема (1-й катрен), поглиблюється й наступає злам у її розвитку (2-й катрен); терцети &ndash; розв'язка (у 1-му подано тему, протилежну тій, яка фігурувала спочатку; 2-й розв'язує суперечність між тезою й антитезою, утворюючи так званий &laquo;сонетний замок&raquo;).</span></p>
+<p><span style="font-weight: 400;">Шекспірівський:</span></p>
+<p><span style="font-weight: 400;">три катрени (схема римування: абаб вгвг деде єє, хоч можливі й інші варіанти) й один двовірш, що має парне римування.</span></p>
+<p><span style="font-weight: 400;">В українській літературі сонети писали І. Франко, &laquo;неокласики&raquo;, Б.-І. Антонич, Є. Маланюк, А.&nbsp;Малишко, Д. Павличко й ін. &nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;">Сонет увійшов до циклу &laquo;Київ&raquo; (&laquo;Київ навесні ввечері&raquo;, &laquo;Київ з лівого берега&raquo;, &laquo;У травні&raquo;, &laquo;Брама Заборовського&raquo; і т.д.) </span></p>
+<p><span style="font-weight: 400;">Образ Києва поет інтерпретував як модель буття в історіософському вимірі (осмислення історії): </span><em><span style="font-weight: 400;">розвиток думки про нездоланність міста перед напасниками</span></em><span style="font-weight: 400;"> (Данпарштадт &ndash; готське місто ІV ст. над Дніпром; Болеслав Хоробрий &ndash; польський король, який &laquo;щербив меча об Золоті ворота&raquo;); </span><em><span style="font-weight: 400;">згадка про відвідини Києва</span></em><span style="font-weight: 400;"> Еріхом Лясоттою (посол нім. Імператора Рудольфа ІІ, описав місто в своєму &laquo;Щоденнику&raquo;) і французьким інженером Гійомом-Левассером Бопланом (змалював наші землі в &laquo;Описі України&raquo;); </span><em><span style="font-weight: 400;">іронічно звучить вказівка на авторову сучасність</span></em><span style="font-weight: 400;"> &ndash; &laquo;В тобі розбили табір аспанфути&raquo; (асоціація панфутуристів); </span><em><span style="font-weight: 400;">згадка про Павла Тичину</span></em><span style="font-weight: 400;">, його збірку &laquo;Плуг&raquo;. </span></p>
+<p><em><span style="font-weight: 400;">Ідея</span></em><span style="font-weight: 400;">: утвердження незнищенності Києва, культури, духовних вимірів народу. &nbsp;</span></p>
+<p>&nbsp;</p>
+<p><span style="font-weight: 400;"></span><span style="font-weight: 400;">
