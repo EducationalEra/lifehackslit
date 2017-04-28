@@ -79,3 +79,28 @@
 * [Київ – традиція](/9lec/kyiv_tradyziya.md)
 * [Максим Тадейович Рильський](/9lec/rylski.md)
 * [«Молюсь і вірю. Вітер грає…»](/9lec/molus_i_vitiu.md)
+
+## Розділ 10
+* [Микола Хвильовий](/10lec/hvyliovyi.md)
+* [«Я (Романтика)»](/10lec/ya_romantyka.md)
+* [Юрій Яновський](/10lec/yanovski.md)
+* [«Дитинство»](/10lec/dytynstvo.md)
+* [«Любіть Україну!»](/10lec/lubit_ukrainu.md)
+
+## Розділ 11
+* [Валер’ян Підмогильний](/11lec/pidmogulnii.md)
+* [«Місто»](/11lec/misto.md)
+* [Остап Вишня](/11lec/vyshnya.md)
+* [«Моя автобіографія»](/11lec/moya_avtobigraphiya.md)
+* [«Сом»](/11lec/som.md)
+* [Богдан-Ігор Антонич](/11lec/antonych.md)
+* [Різдво](/11lec/rizdvo.md)
+
+## Розділ 12
+* [Микола Куліш](/12lec/kulish.md)
+* [«Мина Мазайло»](/12lec/myna_mazailo.md)
+* [Олександр Довженко](/12lec/dovzhenko.md)
+* [«Україна в огні»](/12lec/ukraina_v_ogni.md)
+* [«Зачарована Десна»](/12lec/zacharovana_desna.md)
+* [Андрій Малишко](/12lec/malishko.md)
+* [ПІСНЯ ПРО РУШНИК](/12lec/pisnya_pro_rushnyk.md)
