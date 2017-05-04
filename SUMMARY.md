@@ -104,3 +104,28 @@
 * [«Зачарована Десна»](/12lec/zacharovana_desna.md)
 * [Андрій Малишко](/12lec/malishko.md)
 * [ПІСНЯ ПРО РУШНИК](/12lec/pisnya_pro_rushnyk.md)
+
+## Розділ 13 – 14
+* [Шістдесятники](/13_14lec/shistedesyatnyki.md)
+* [Василь Симоненко](/13_14lec/symonenko.md)
+* [«Задивляюсь у твої зіниці…»](/13_14lec/zadyvlaus_u_tvoi_zinyci.md)
+* [Василь Стус](/13_14lec/stus.md)
+* [«Як добре те, що смерті не боюсь я»](/13_14lec/yak_dobre_te_sho_smerti_ne_bous_ya.md)
+* [«О земле втрачена, явися!..»](/13_14lec/o_zemle_vtrachena_vernysya.md)
+* [Іван Драч](/13_14lec/drach.md)
+* [«Балада про соняшник»](/13_14lec/balada_pro_sonyashnyk.md)
+* [Ліна Костенко](/13_14lec/kostenko.md)
+* [Українське альфреско](/13_14lec/ukrainske_alfresko.md)
+* [«Маруся Чурай»](/13_14lec/marusya_churay.md)
+* [Григір Тютюнник](/13_14lec/tutunnyk.md)
+* [«Три зозулі з поклоном»](/13_14lec/3_zozuli_z_poklonom.md)
+* [Олесь Гончар](/13_14lec/gonchar.md)
+* [«Залізний острів»](/13_14lec/zaliznyi_ostriv.md)
+
+## Розділ 15
+* [Іван Багряний](/15lec/bagryanyi.md)
+* [Євген Маланюк](/15lec/malanyuk.md)
+* [«Стилет чи стилос?»](/15lec/stulet_chi_stulos.md)
+* [Сучасна українська література](/15lec/sul.md)
+* [Угруповання](/15lec/ugrupovannya.md)
+* [Постмодернізм](/15lec/postmodernizm.md)
