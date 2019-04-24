@@ -10,7 +10,7 @@
 <p><span style="font-weight: 400;">Так! я буду крізь сльози сміятись,&nbsp;</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Серед лиха співати пісні,&nbsp;</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Без надії таки сподіватись,&nbsp;</span><span style="font-weight: 400;"><br /></span><span style="font-weight: 400;">Буду жити! Геть, думи сумні!&nbsp;</span><span style="font-weight: 400;"><br /><br /></span></p>
 <p><strong>2 травня 1890 р.</strong><strong><em><br /><br /></em></strong></p>
 <p><em><span style="font-weight: 400;">Датовано за автографом.</span></em><em><span style="font-weight: 400;"><br /></span></em><em><span style="font-weight: 400;">Вперше надруковано у збірці &laquo;На крилах пісень&raquo;, 1893, с. 13&ndash;14.</span></em></p>
-<p><em><span style="font-weight: 400;"></span></em><strong>Аналіз вірша</strong></p>
+<p><strong>Аналіз вірша</strong></p>
 <p>&nbsp;</p>
 <p><strong>Переклад: &laquo;</strong><span style="font-weight: 400;">без надії сподіваюся&raquo;.</span></p>
 <p><strong>Збірка:</strong><span style="font-weight: 400;"> &laquo;На крилах пісень&raquo;.</span></p>
